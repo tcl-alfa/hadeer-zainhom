@@ -16,7 +16,7 @@ const profile = {
 
   /* ---- واتساب: رقم واحد أو أكتر ---- */
   // اكتب الرقم عادي (01xxxxxxxxx) وهيتحول للصيغة الدولية (+20) أوتوماتيك
-  whatsappNumbers: ["01000885394", "01001686804"], // ← غيّر الرقم التاني
+  whatsappNumbers: ["01000885394"], // ← غيّر الرقم التاني
 
   /* ---- لينكدإن ---- */
   linkedin:     "https://www.linkedin.com/in/hadeer-elaraby-771728232/?isSelfProfile=false",
