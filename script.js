@@ -23,8 +23,8 @@ const profile = {
   linkedinText: "Hadeer Zainhom",    // النص اللي يظهر تحت "Connect With Me"
 
   /* ---- الإيميل ---- */
-  email:     "hadeer.zainhom@ alfagroup-egy.com",
-  emailText: "hadeer.zainhom@ alfagroup-egy.com",  // النص اللي يظهر تحت "Email Me"
+  email:     "hadeer.zainhom@alfagroup-egy.com",
+  emailText: "hadeer.zainhom@alfagroup-egy.com",  // النص اللي يظهر تحت "Email Me"
 
   /* ---- السوشيال ---- */
   facebook:  "https://www.facebook.com/TCL.Alfa/",
@@ -34,7 +34,7 @@ const profile = {
 
   /* ---- WeChat ---- */
   wechatId: "HADERELARBY",   // ← اكتب الـ ID هنا (سيبه فاضي "" لو عايز تخفي الأيقونة)
-  wechatQr: "QR.JPEG"     // ← صورة QR (اختياري) — حطها بجانب الملفات، أو سيبها "" لو مش عايزها
+  wechatQr: "QR.png"     // ← صورة QR (اختياري) — حطها بجانب الملفات، أو سيبها "" لو مش عايزها
 };
 /* ============================================================ */
 
